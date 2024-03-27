@@ -35,12 +35,12 @@
       "text": "Hugging Face"
     },
     {
-      "imageSrc": "packages/images/Llamaindex.png",
+      "imageSrc": "packages/images/llamaindex.png",
       "altText": "Llamaindex",
       "text": "Llamaindex"
     },
     {
-      "imageSrc": "packages/images/Ollama.png",
+      "imageSrc": "packages/images/ollama.png",
       "altText": "Ollama",
       "text": "Ollama"
     },
