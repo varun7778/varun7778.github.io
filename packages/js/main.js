@@ -465,17 +465,16 @@ animateCircles();
 const Cursorcircles = document.querySelectorAll('[id*=cursor]');
 // Function to check if cursor is pointer
 function isCursorPointer(e) {
-  console.log("Here");
-  return e.target.style.cursor === 'pointer' || window.getComputedStyle(e.target).cursor === 'pointer';
+  return e.target.style.cursor === 'pointer' || window.getComputedStyle(e.target).cursor === 'pointer' || window.screen.width <= 568;
 }
 
 function handleMouseMove(e) {
-  console.log("sup: "+ Cursorcircles.length);
   for (const Cursorcircle of Cursorcircles) {
     if (isCursorPointer(e)) {
-      Cursorcircle.style.display = 'none'; // Add disabled class
-    } else {
-      Cursorcircle.style.display = 'block'; // Remove disabled class
+      Cursorcircle.style.display = 'none';
+    } 
+    else {
+      Cursorcircle.style.display = 'block';
     }
   }
 }
