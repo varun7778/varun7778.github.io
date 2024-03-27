@@ -461,6 +461,26 @@ function animateCircles() {
 
 animateCircles();
 
+/*==================== Disable Cursor ====================*/
+const Cursorcircles = document.querySelectorAll('[id*=cursor]');
+// Function to check if cursor is pointer
+function isCursorPointer(e) {
+  console.log("Here");
+  return e.target.style.cursor === 'pointer' || window.getComputedStyle(e.target).cursor === 'pointer';
+}
+
+function handleMouseMove(e) {
+  console.log("sup: "+ Cursorcircles.length);
+  for (const Cursorcircle of Cursorcircles) {
+    if (isCursorPointer(e)) {
+      Cursorcircle.style.display = 'none'; // Add disabled class
+    } else {
+      Cursorcircle.style.display = 'block'; // Remove disabled class
+    }
+  }
+}
+
+document.addEventListener('mousemove', handleMouseMove);
 
 /*==================== FadeIn Animation ====================*/
 var observer = new IntersectionObserver(
