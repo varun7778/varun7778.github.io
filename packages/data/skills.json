@@ -1,0 +1,209 @@
+[
+    {
+      "imageSrc": "packages/images/opencv.png",
+      "altText": "OpenCV",
+      "text": "OpenCV"
+    },
+    {
+      "imageSrc": "packages/images/gcp.png",
+      "altText": "GCP",
+      "text": "GCP"
+    },
+    {
+      "imageSrc": "packages/images/aws.png",
+      "altText": "AWS",
+      "text": "AWS"
+    },
+    {
+      "imageSrc": "packages/images/azure.png",
+      "altText": "Azure",
+      "text": "Azure"
+    },
+    {
+      "imageSrc": "packages/images/langchain.png",
+      "altText": "Langchain",
+      "text": "Langchain"
+    },
+    {
+      "imageSrc": "packages/images/Kubernetes.png",
+      "altText": "Kubernetes",
+      "text": "Kubernetes"
+    },
+    {
+      "imageSrc": "packages/images/hf.png",
+      "altText": "Hugging Face",
+      "text": "Hugging Face"
+    },
+    {
+      "imageSrc": "packages/images/Llamaindex.png",
+      "altText": "Llamaindex",
+      "text": "Llamaindex"
+    },
+    {
+      "imageSrc": "packages/images/Ollama.png",
+      "altText": "Ollama",
+      "text": "Ollama"
+    },
+    {
+      "imageSrc": "packages/images/Tensorflow.png",
+      "altText": "TensorFlow",
+      "text": "TensorFlow"
+    },
+    {
+      "imageSrc": "packages/images/scikit_learn.png",
+      "altText": "Scikit-Learn",
+      "text": "Scikit-Learn"
+    },
+    {
+      "imageSrc": "packages/images/nltk.png",
+      "altText": "NLTK",
+      "text": "NLTK"
+    },
+    {
+      "imageSrc": "packages/images/SCIPY.png",
+      "altText": "SciPy",
+      "text": "SciPy"
+    },
+    {
+      "imageSrc": "packages/images/pytorch.png",
+      "altText": "PyTorch",
+      "text": "PyTorch"
+    },
+    {
+      "imageSrc": "packages/images/SpaCy.png",
+      "altText": "Spacy",
+      "text": "Spacy"
+    },
+    {
+      "imageSrc": "packages/images/numpy.png",
+      "altText": "NumPy",
+      "text": "NumPy"
+    },
+    {
+      "imageSrc": "packages/images/keras.png",
+      "altText": "Keras",
+      "text": "Keras"
+    },
+    {
+      "imageSrc": "packages/images/R.png",
+      "altText": "R",
+      "text": "R"
+    },
+    {
+      "imageSrc": "packages/images/streamlit.png",
+      "altText": "Streamlit",
+      "text": "Streamlit"
+    },
+    {
+      "imageSrc": "packages/images/Matlab.png",
+      "altText": "Matlab",
+      "text": "Matlab"
+    },
+    {
+      "imageSrc": "packages/images/mongodb.png",
+      "altText": "MongoDb",
+      "text": "MongoDb"
+    },
+    {
+      "imageSrc": "packages/images/heroku.png",
+      "altText": "Heroku",
+      "text": "Heroku"
+    },
+    {
+      "imageSrc": "packages/images/html.png",
+      "altText": "HTML",
+      "text": "HTML"
+    },
+    {
+      "imageSrc": "packages/images/css.png",
+      "altText": "CSS",
+      "text": "CSS"
+    },
+    {
+      "imageSrc": "packages/images/js.png",
+      "altText": "JavaScript",
+      "text": "JavaScript"
+    },
+    {
+      "imageSrc": "packages/images/Dart.png",
+      "altText": "Dart",
+      "text": "Dart"
+    },
+    {
+      "imageSrc": "packages/images/TB.png",
+      "altText": "Tableau",
+      "text": "Tableau"
+    },
+    {
+      "imageSrc": "packages/images/node.png",
+      "altText": "Node.js",
+      "text": "Node.js"
+    },
+    {
+      "imageSrc": "packages/images/flask.png",
+      "altText": "Flask",
+      "text": "Flask"
+    },
+    {
+      "imageSrc": "packages/images/Bootstrap.png",
+      "altText": "Bootstrap",
+      "text": "Bootstrap"
+    },
+    {
+      "imageSrc": "packages/images/jquery.png",
+      "altText": "jQuery",
+      "text": "jQuery"
+    },
+    {
+      "imageSrc": "packages/images/unity.png",
+      "altText": "Unity",
+      "text": "Unity"
+    },
+    {
+      "imageSrc": "packages/images/angularjs.png",
+      "altText": "AngularJS",
+      "text": "AngularJS"
+    },
+    {
+      "imageSrc": "packages/images/Android_Studio.png",
+      "altText": "Android Studio",
+      "text": "Android Studio"
+    },
+    {
+      "imageSrc": "packages/images/Firebase.png",
+      "altText": "Firebase",
+      "text": "Firebase"
+    },
+    {
+      "imageSrc": "packages/images/java.webp",
+      "altText": "Java",
+      "text": "Java"
+    },
+    {
+      "imageSrc": "packages/images/Python.png",
+      "altText": "Python",
+      "text": "Python"
+    },
+    {
+      "imageSrc": "packages/images/cpp.png",
+      "altText": "C++",
+      "text": "C++"
+    },
+    {
+      "imageSrc": "packages/images/c.png",
+      "altText": "C",
+      "text": "C"
+    },
+    {
+      "imageSrc": "packages/images/sql.png",
+      "altText": "SQL",
+      "text": "SQL"
+    },
+    {
+      "imageSrc": "packages/images/oracledb.png",
+      "altText": "Oracle DB",
+      "text": "Oracle DB"
+    }
+  ]
+
+                                
