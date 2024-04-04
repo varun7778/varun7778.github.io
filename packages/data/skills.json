@@ -15,9 +15,9 @@
       "text": "AWS"
     },
     {
-      "imageSrc": "packages/images/azure.png",
-      "altText": "Azure",
-      "text": "Azure"
+      "imageSrc": "packages/images/MLflow.png",
+      "altText": "MLflow",
+      "text": "MLflow"
     },
     {
       "imageSrc": "packages/images/langchain.png",
@@ -85,14 +85,24 @@
       "text": "Keras"
     },
     {
-      "imageSrc": "packages/images/R.png",
-      "altText": "R",
-      "text": "R"
+      "imageSrc": "packages/images/azure.png",
+      "altText": "Azure",
+      "text": "Azure"
     },
     {
       "imageSrc": "packages/images/streamlit.png",
       "altText": "Streamlit",
       "text": "Streamlit"
+    },
+    {
+      "imageSrc": "packages/images/Jenkins.png",
+      "altText": "Jenkins",
+      "text": "Jenkins"
+    },
+    {
+      "imageSrc": "packages/images/R.png",
+      "altText": "R",
+      "text": "R"
     },
     {
       "imageSrc": "packages/images/Matlab.png",
