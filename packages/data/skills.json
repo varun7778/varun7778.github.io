@@ -1,6 +1,36 @@
 [
     {
-      "imageSrc": "packages/images/opencv.png",
+      "imageSrc": "packages/images/Langgraph.png",
+      "altText": "LangGraph",
+      "text": "LangGraph"
+    },
+    {
+      "imageSrc": "packages/images/chroma.png",
+      "altText": "ChromaDB",
+      "text": "ChromaDB"
+    },
+    {
+      "imageSrc": "packages/images/Google_Gemini.png",
+      "altText": "Google Gemini",
+      "text": "Google Gemini"
+    },
+    {
+      "imageSrc": "packages/images/openai.webp",
+      "altText": "Openai",
+      "text": "Openai"
+    },
+    {
+      "imageSrc": "packages/images/PostgreSQL.png",
+      "altText": "PostgreSQL",
+      "text": "PostgreSQL"
+    },
+    {
+      "imageSrc": "packages/images/claude.webp",
+      "altText": "Claude",
+      "text": "Claude"
+    },
+    {
+      "imageSrc": "packages/images/openCV.png",
       "altText": "OpenCV",
       "text": "OpenCV"
     },
