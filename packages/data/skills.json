@@ -26,8 +26,8 @@
     },
     {
       "imageSrc": "packages/images/claude.webp",
-      "altText": "Claude",
-      "text": "Claude"
+      "altText": "Anthropic",
+      "text": "Anthropic"
     },
     {
       "imageSrc": "packages/images/openCV.png",
@@ -43,11 +43,6 @@
       "imageSrc": "packages/images/aws.png",
       "altText": "AWS",
       "text": "AWS"
-    },
-    {
-      "imageSrc": "packages/images/MLflow.png",
-      "altText": "MLflow",
-      "text": "MLflow"
     },
     {
       "imageSrc": "packages/images/langchain.png",
@@ -85,19 +80,24 @@
       "text": "Scikit-Learn"
     },
     {
-      "imageSrc": "packages/images/nltk.png",
-      "altText": "NLTK",
-      "text": "NLTK"
+      "imageSrc": "packages/images/onnx.png",
+      "altText": "ONNX",
+      "text": "ONNX"
     },
     {
-      "imageSrc": "packages/images/SCIPY.png",
-      "altText": "SciPy",
-      "text": "SciPy"
+      "imageSrc": "packages/images/sagemaker.png",
+      "altText": "sagemaker",
+      "text": "sagemaker"
     },
     {
       "imageSrc": "packages/images/pytorch.png",
       "altText": "PyTorch",
       "text": "PyTorch"
+    },
+    {
+      "imageSrc": "packages/images/Vertex_AI.png",
+      "altText": "Vertex AI",
+      "text": "Vertex AI"
     },
     {
       "imageSrc": "packages/images/SpaCy.png",
@@ -115,6 +115,11 @@
       "text": "Keras"
     },
     {
+      "imageSrc": "packages/images/MLflow.png",
+      "altText": "MLflow",
+      "text": "MLflow"
+    },
+    {
       "imageSrc": "packages/images/azure.png",
       "altText": "Azure",
       "text": "Azure"
@@ -123,6 +128,11 @@
       "imageSrc": "packages/images/streamlit.png",
       "altText": "Streamlit",
       "text": "Streamlit"
+    },
+    {
+      "imageSrc": "packages/images/nltk.png",
+      "altText": "NLTK",
+      "text": "NLTK"
     },
     {
       "imageSrc": "packages/images/Jenkins.png",
@@ -135,9 +145,44 @@
       "text": "R"
     },
     {
-      "imageSrc": "packages/images/Matlab.png",
-      "altText": "Matlab",
-      "text": "Matlab"
+      "imageSrc": "packages/images/node.png",
+      "altText": "Node.js",
+      "text": "Node.js"
+    },
+    {
+      "imageSrc": "packages/images/comet.png",
+      "altText": "Comet",
+      "text": "Comet"
+    },
+    {
+      "imageSrc": "packages/images/pinecone.png",
+      "altText": "Pinecone",
+      "text": "Pinecone"
+    },
+    {
+      "imageSrc": "packages/images/fastapi.png",
+      "altText": "Fast API",
+      "text": "Fast API"
+    },
+    {
+      "imageSrc": "packages/images/tensorboard.png",
+      "altText": "Tensorboard",
+      "text": "Tensorboard"
+    },
+    {
+      "imageSrc": "packages/images/Python.png",
+      "altText": "Python",
+      "text": "Python"
+    },
+    {
+      "imageSrc": "packages/images/SCIPY.png",
+      "altText": "SciPy",
+      "text": "SciPy"
+    },
+    {
+      "imageSrc": "packages/images/Jupyter_logo.png",
+      "altText": "Jupyter",
+      "text": "Jupyter"
     },
     {
       "imageSrc": "packages/images/mongodb.png",
@@ -145,54 +190,14 @@
       "text": "MongoDb"
     },
     {
-      "imageSrc": "packages/images/heroku.png",
-      "altText": "Heroku",
-      "text": "Heroku"
-    },
-    {
-      "imageSrc": "packages/images/html.png",
-      "altText": "HTML",
-      "text": "HTML"
-    },
-    {
-      "imageSrc": "packages/images/css.png",
-      "altText": "CSS",
-      "text": "CSS"
-    },
-    {
-      "imageSrc": "packages/images/js.png",
-      "altText": "JavaScript",
-      "text": "JavaScript"
-    },
-    {
-      "imageSrc": "packages/images/Dart.png",
-      "altText": "Dart",
-      "text": "Dart"
-    },
-    {
-      "imageSrc": "packages/images/TB.png",
-      "altText": "Tableau",
-      "text": "Tableau"
-    },
-    {
-      "imageSrc": "packages/images/node.png",
-      "altText": "Node.js",
-      "text": "Node.js"
+      "imageSrc": "packages/images/git.png",
+      "altText": "Git",
+      "text": "Git"
     },
     {
       "imageSrc": "packages/images/flask.png",
       "altText": "Flask",
       "text": "Flask"
-    },
-    {
-      "imageSrc": "packages/images/Bootstrap.png",
-      "altText": "Bootstrap",
-      "text": "Bootstrap"
-    },
-    {
-      "imageSrc": "packages/images/jquery.png",
-      "altText": "jQuery",
-      "text": "jQuery"
     },
     {
       "imageSrc": "packages/images/unity.png",
@@ -210,6 +215,11 @@
       "text": "Android Studio"
     },
     {
+      "imageSrc": "packages/images/TB.png",
+      "altText": "Tableau",
+      "text": "Tableau"
+    },
+    {
       "imageSrc": "packages/images/Firebase.png",
       "altText": "Firebase",
       "text": "Firebase"
@@ -218,11 +228,6 @@
       "imageSrc": "packages/images/java.webp",
       "altText": "Java",
       "text": "Java"
-    },
-    {
-      "imageSrc": "packages/images/Python.png",
-      "altText": "Python",
-      "text": "Python"
     },
     {
       "imageSrc": "packages/images/cpp.png",
@@ -235,6 +240,26 @@
       "text": "C"
     },
     {
+      "imageSrc": "packages/images/Bootstrap.png",
+      "altText": "Bootstrap",
+      "text": "Bootstrap"
+    },
+    {
+      "imageSrc": "packages/images/js.png",
+      "altText": "JavaScript",
+      "text": "JavaScript"
+    },
+    {
+      "imageSrc": "packages/images/heroku.png",
+      "altText": "Heroku",
+      "text": "Heroku"
+    },
+    {
+      "imageSrc": "packages/images/html.png",
+      "altText": "HTML",
+      "text": "HTML"
+    },
+    {
       "imageSrc": "packages/images/sql.png",
       "altText": "SQL",
       "text": "SQL"
@@ -243,7 +268,35 @@
       "imageSrc": "packages/images/oracledb.png",
       "altText": "Oracle DB",
       "text": "Oracle DB"
+    },
+    {
+      "imageSrc": "packages/images/css.png",
+      "altText": "CSS",
+      "text": "CSS"
+    },
+    {
+      "imageSrc": "packages/images/plotly.jpg",
+      "altText": "Plotly",
+      "text": "Plotly"
+    },
+    {
+      "imageSrc": "packages/images/jquery.png",
+      "altText": "jQuery",
+      "text": "jQuery"
+    },
+    {
+      "imageSrc": "packages/images/gradio.png",
+      "altText": "Gradio",
+      "text": "Gradio"
+    },
+    {
+      "imageSrc": "packages/images/Matlab.png",
+      "altText": "Matlab",
+      "text": "Matlab"
+    },
+    {
+      "imageSrc": "packages/images/Dart.png",
+      "altText": "Dart",
+      "text": "Dart"
     }
   ]
-
-                                

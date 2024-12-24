@@ -433,7 +433,7 @@ img {
 }
 
 .animated-text span::before{
-  content: "AI Engineer..";
+  content: "AI/ML Engineer..";
   color: var(--first-color-alt);
   animation: words 20s infinite;
 }
@@ -457,7 +457,7 @@ img {
 
 @keyframes words {
   0%,20%{
-      content: "AI Engineer..";
+      content: "AI/ML Engineer..";
   }
   21%,40%{
       content: "DevOps Engineer..";
